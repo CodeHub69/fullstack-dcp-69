@@ -2,3 +2,4 @@
 My name is Thanakorn.
 My lastname is Samofak.
 email : thanakorn@kvc.ac.th
+phone number : 12345678
